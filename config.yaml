@@ -1,5 +1,5 @@
 metadata:
-  name: "dummy-application-service"
+  name: "application-service"
   version: "1.0.0"
   environment: "development"
   last_updated_by: "system"
