@@ -1,2 +1,3 @@
-environment: production
-max_replicas: 5
+environment: development
+scaling:
+  max_replicas: 7
